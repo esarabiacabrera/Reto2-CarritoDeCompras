@@ -16,10 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Integrantes
-Edinson Sarabia Cabrera
-Segundo Arboleda Angulo
-Ximena Rosales Otalora
-Emiro Galvis Jimenez
+Edinson Sarabia Cabrera-
+Segundo Arboleda Angulo-
+Ximena Rosales Otalora-
+Emiro Galvis Jimenez-
 Bryner Ramirez Rodriguez
 
 Linki del video:
